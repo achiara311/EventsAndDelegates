@@ -1,0 +1,11 @@
+C:\Users\achiara\source\repos\EventsAndDelegates\EventsAndDelegates\bin\Debug\netcoreapp3.1\EventsAndDelegates.exe
+C:\Users\achiara\source\repos\EventsAndDelegates\EventsAndDelegates\bin\Debug\netcoreapp3.1\EventsAndDelegates.deps.json
+C:\Users\achiara\source\repos\EventsAndDelegates\EventsAndDelegates\bin\Debug\netcoreapp3.1\EventsAndDelegates.runtimeconfig.json
+C:\Users\achiara\source\repos\EventsAndDelegates\EventsAndDelegates\bin\Debug\netcoreapp3.1\EventsAndDelegates.runtimeconfig.dev.json
+C:\Users\achiara\source\repos\EventsAndDelegates\EventsAndDelegates\bin\Debug\netcoreapp3.1\EventsAndDelegates.dll
+C:\Users\achiara\source\repos\EventsAndDelegates\EventsAndDelegates\bin\Debug\netcoreapp3.1\EventsAndDelegates.pdb
+C:\Users\achiara\source\repos\EventsAndDelegates\EventsAndDelegates\obj\Debug\netcoreapp3.1\EventsAndDelegates.csprojAssemblyReference.cache
+C:\Users\achiara\source\repos\EventsAndDelegates\EventsAndDelegates\obj\Debug\netcoreapp3.1\EventsAndDelegates.AssemblyInfoInputs.cache
+C:\Users\achiara\source\repos\EventsAndDelegates\EventsAndDelegates\obj\Debug\netcoreapp3.1\EventsAndDelegates.AssemblyInfo.cs
+C:\Users\achiara\source\repos\EventsAndDelegates\EventsAndDelegates\obj\Debug\netcoreapp3.1\EventsAndDelegates.dll
+C:\Users\achiara\source\repos\EventsAndDelegates\EventsAndDelegates\obj\Debug\netcoreapp3.1\EventsAndDelegates.pdb
